@@ -1,3 +1,18 @@
+# Today's task tests your knowledge of git and github
+
+# Steps
+
+- Fork this repo to your personal account
+- Go to settings and add *iykekings* as collaborator
+- Clone the version you clone to your laptop
+- Create a branch called *solution*
+- Answer the questions and complete
+- As your work on the tasks, make regular commits
+- Create a pull request from branch *solution* to *master* and add *iykekings* as reviewer
+- Don't merge it.
+- It will be evaluated and merged by the reviewer
+
+
 # Intro to Python I
 
 It's time to learn a new language! Python!
